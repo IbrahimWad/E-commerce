@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSaveMode": "file",
+    "editor.formatOnType": false,
+    "json.format.keepLines": true,
+    "javascript.format.semicolons": "insert",
+    "editor.defaultFormatter": "vscode.git",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": false,
+    "editor.fontWeight": "normal"
+}
